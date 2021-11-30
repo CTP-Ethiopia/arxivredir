@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Recommendations &#8211; Counseling and Test Preparation Ethiopia | CTP Ethiopia Inc.</title>
+	<atom:link href="/blog/category/recommendations/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Onsite Tutoring. Online Mentoring.</description>
+	<lastBuildDate>Tue, 19 Nov 2019 06:53:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>https://ctp-ethiopia-prod.s3.amazonaws.com/static/c1a16455878527a25d9c0619f8cb87d6 b09dd862bde0424da28cbc09781cf57e 9b4cf382d8a5e11fa2e00712efca852b 46db7b7adca681c42f97dc84fc5cb14a e611d36c36d787e48ecb747c7ce62f55 bdc1d32351941455f38961b65b4da8a06f1e8de7bc4feff591734fefad83a49ce9acf2993935740bf9f1724120b884196e15c001bba5b0fe59b2356ff15256f1bb91d4e7eca27a5ef2e1ad68ef58a1c1/v3/2021/05/07073555/cropped-default-logo-150x150.png</url>
+	<title>Recommendations &#8211; Counseling and Test Preparation Ethiopia | CTP Ethiopia Inc.</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">193736315</site>	<item>
+		<title>Recommendation Letters</title>
+		<link>/blog/2019/11/19/recommendation-letters/</link>
+					<comments>/blog/2019/11/19/recommendation-letters/#respond</comments>
+		
+		<dc:creator><![CDATA[bruk]]></dc:creator>
+		<pubDate>Tue, 19 Nov 2019 06:53:45 +0000</pubDate>
+				<category><![CDATA[Recommendations]]></category>
+		<guid isPermaLink="false">http://35.153.117.167.xip.io/?p=6278</guid>
+
+					<description><![CDATA[Recommendations are&#160; a very important, and yet the most underestimated, part of the college applications. By now you may have heard the spiel that admission officers expect very highly of your personal statements (the college application essays) mostly because it&#8217;s the only place where they get to know and, depending on how good you are [&#8230;]]]></description>
+		
+					<wfw:commentRss>/blog/2019/11/19/recommendation-letters/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6278</post-id>	</item>
+	</channel>
+</rss>

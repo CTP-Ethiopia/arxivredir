@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Application Essays &#8211; Counseling and Test Preparation Ethiopia | CTP Ethiopia Inc.</title>
+	<atom:link href="/blog/category/application-essays/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Onsite Tutoring. Online Mentoring.</description>
+	<lastBuildDate>Sat, 09 Nov 2019 06:44:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>https://ctp-ethiopia-prod.s3.amazonaws.com/static/c1a16455878527a25d9c0619f8cb87d6 b09dd862bde0424da28cbc09781cf57e 9b4cf382d8a5e11fa2e00712efca852b 46db7b7adca681c42f97dc84fc5cb14a e611d36c36d787e48ecb747c7ce62f55 bdc1d32351941455f38961b65b4da8a06f1e8de7bc4feff591734fefad83a49ce9acf2993935740bf9f1724120b884196e15c001bba5b0fe59b2356ff15256f1bb91d4e7eca27a5ef2e1ad68ef58a1c1/v3/2021/05/07073555/cropped-default-logo-150x150.png</url>
+	<title>Application Essays &#8211; Counseling and Test Preparation Ethiopia | CTP Ethiopia Inc.</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">193736315</site>	<item>
+		<title>Writing Your Common Application Essay</title>
+		<link>/blog/2019/11/09/writing-your-common-application-essay/</link>
+					<comments>/blog/2019/11/09/writing-your-common-application-essay/#respond</comments>
+		
+		<dc:creator><![CDATA[rediet]]></dc:creator>
+		<pubDate>Sat, 09 Nov 2019 06:44:31 +0000</pubDate>
+				<category><![CDATA[Application Essays]]></category>
+		<category><![CDATA[CTP‬weeklyTips]]></category>
+		<guid isPermaLink="false">http://35.153.117.167.xip.io/?p=6275</guid>
+
+					<description><![CDATA[For this week’s CTP tip, we wanted to talk about one of the most crucial elements of the college application process, The Common Application Essay. The Common App essay is the best way for admissions committees to get to you know you. Recommendations are what your teachers say about you, transcripts are what your grades [&#8230;]]]></description>
+		
+					<wfw:commentRss>/blog/2019/11/09/writing-your-common-application-essay/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6275</post-id>	</item>
+	</channel>
+</rss>

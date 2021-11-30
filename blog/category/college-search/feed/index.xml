@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>College Search &#8211; Counseling and Test Preparation Ethiopia | CTP Ethiopia Inc.</title>
+	<atom:link href="/blog/category/college-search/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Onsite Tutoring. Online Mentoring.</description>
+	<lastBuildDate>Fri, 01 Mar 2019 06:40:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>https://ctp-ethiopia-prod.s3.amazonaws.com/static/c1a16455878527a25d9c0619f8cb87d6 b09dd862bde0424da28cbc09781cf57e 9b4cf382d8a5e11fa2e00712efca852b 46db7b7adca681c42f97dc84fc5cb14a e611d36c36d787e48ecb747c7ce62f55 bdc1d32351941455f38961b65b4da8a06f1e8de7bc4feff591734fefad83a49ce9acf2993935740bf9f1724120b884196e15c001bba5b0fe59b2356ff15256f1bb91d4e7eca27a5ef2e1ad68ef58a1c1/v3/2021/05/07073555/cropped-default-logo-150x150.png</url>
+	<title>College Search &#8211; Counseling and Test Preparation Ethiopia | CTP Ethiopia Inc.</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">193736315</site>	<item>
+		<title>Talking to Admission Officers</title>
+		<link>/blog/2019/03/01/talking-to-admission-officers/</link>
+					<comments>/blog/2019/03/01/talking-to-admission-officers/#respond</comments>
+		
+		<dc:creator><![CDATA[team]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2019 06:40:01 +0000</pubDate>
+				<category><![CDATA[College Search]]></category>
+		<guid isPermaLink="false">http://35.153.117.167.xip.io/?p=6273</guid>
+
+					<description><![CDATA[Hey everyone! Get ready for another weekly CTP tip! Following up last week’s post on the college search, this week we’ll be talking about how to correspond with admissions officers.The college search is a crucial part of the application process but reaching out to admissions offices can be overlooked. When in doubt(about say a college’s [&#8230;]]]></description>
+		
+					<wfw:commentRss>/blog/2019/03/01/talking-to-admission-officers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6273</post-id>	</item>
+		<item>
+		<title>College Search</title>
+		<link>/blog/2019/03/01/college-search/</link>
+					<comments>/blog/2019/03/01/college-search/#respond</comments>
+		
+		<dc:creator><![CDATA[debi]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2019 04:34:26 +0000</pubDate>
+				<category><![CDATA[College Search]]></category>
+		<category><![CDATA[CTP‬weeklyTips]]></category>
+		<guid isPermaLink="false">http://35.153.117.167.xip.io/?p=6233</guid>
+
+					<description><![CDATA[Since Regular Application season is approaching us, we wanted to highlight some of the criteria to use in choosing your colleges. Some of you have a college that you have wanted to go to since you were six, while some of you might not be as sure when it comes to choosing that one particular [&#8230;]]]></description>
+		
+					<wfw:commentRss>/blog/2019/03/01/college-search/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6233</post-id>	</item>
+		<item>
+		<title>More on College Search</title>
+		<link>/blog/2019/02/15/more-on-college-search/</link>
+					<comments>/blog/2019/02/15/more-on-college-search/#respond</comments>
+		
+		<dc:creator><![CDATA[team]]></dc:creator>
+		<pubDate>Fri, 15 Feb 2019 04:39:38 +0000</pubDate>
+				<category><![CDATA[College Search]]></category>
+		<category><![CDATA[CTP‬weeklyTips]]></category>
+		<guid isPermaLink="false">http://35.153.117.167.xip.io/?p=6237</guid>
+
+					<description><![CDATA[Hi everyone, this week’s tip is about choosing colleges to apply to/attend.First thing is first, make a list of all the criteria that are important to you. This can be generosity of financial aid, availability of research opportunities, location, course requirements for a degree, the presence of an Ethiopian community e.t.c. Once you have this [&#8230;]]]></description>
+		
+					<wfw:commentRss>/blog/2019/02/15/more-on-college-search/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6237</post-id>	</item>
+	</channel>
+</rss>

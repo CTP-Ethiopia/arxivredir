@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Weekly Tips &#8211; Counseling and Test Preparation Ethiopia | CTP Ethiopia Inc.</title>
+	<atom:link href="/blog/category/weekly-tips/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Onsite Tutoring. Online Mentoring.</description>
+	<lastBuildDate>Fri, 13 Nov 2015 01:21:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>https://ctp-ethiopia-prod.s3.amazonaws.com/static/c1a16455878527a25d9c0619f8cb87d6 b09dd862bde0424da28cbc09781cf57e 9b4cf382d8a5e11fa2e00712efca852b 46db7b7adca681c42f97dc84fc5cb14a e611d36c36d787e48ecb747c7ce62f55 bdc1d32351941455f38961b65b4da8a06f1e8de7bc4feff591734fefad83a49ce9acf2993935740bf9f1724120b884196e15c001bba5b0fe59b2356ff15256f1bb91d4e7eca27a5ef2e1ad68ef58a1c1/v3/2021/05/07073555/cropped-default-logo-150x150.png</url>
+	<title>Weekly Tips &#8211; Counseling and Test Preparation Ethiopia | CTP Ethiopia Inc.</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">193736315</site>	<item>
+		<title>Financial Aid</title>
+		<link>/blog/2015/11/13/fin-aid/</link>
+					<comments>/blog/2015/11/13/fin-aid/#respond</comments>
+		
+		<dc:creator><![CDATA[team]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2015 01:21:13 +0000</pubDate>
+				<category><![CDATA[Weekly Tips]]></category>
+		<guid isPermaLink="false">https://ctpethiopia.org/?p=6492</guid>
+
+					<description><![CDATA[Every document a student needs when applying for financial aid is covered in a detailed, easy-to-understand and comprehensive manner in the&#160;CTP WORKBOOK&#160;. This 100-page workbook is available for FREE for all CTP Member Students. The following article is an excerpt taken from page 58-59 of the CTP Workbook. Many students find it difficult to finance [&#8230;]]]></description>
+		
+					<wfw:commentRss>/blog/2015/11/13/fin-aid/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6492</post-id>	</item>
+	</channel>
+</rss>
