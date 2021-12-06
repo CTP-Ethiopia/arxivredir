@@ -59,6 +59,7 @@
 <script id="topbar_frontjs-js-extra">var tpbr_settings={"fixed":"fixed","user_who":"notloggedin","guests_or_users":"all","message":"You are reading an archive. The archive will be purged at the end of this month.","status":"active","yn_button":"button","color":"#e80000","button_text":"Updated Website","button_url":"https:\/\/ctpethiopia.org?utm_source=archive","button_behavior":"newwindow","is_admin_bar":"no","detect_sticky":"1"};</script>
 <script src="/wp-content/plugins/top-bar/inc/../js/tpbr_front.min.js?ver=5.8.2" id="topbar_frontjs-js"></script>
 <script src="/wp-content/themes/oceanwp/assets/js/vendors/smoothscroll.min.js?ver=3.0.7" id="ow-smoothscroll-js"></script>
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 
 <!-- Google Analytics snippet added by Site Kit -->
 <script src="https://www.googletagmanager.com/gtag/js?id=UA-181221034-1" id="google_gtagjs-js" async></script>
@@ -238,6 +239,17 @@
 	
 </header><!-- .page-header -->
 
+				<!--Navigation bar-->
+<div id="nav-placeholder">
+
+</div>
+
+<script>
+$(function(){
+  $("#nav-placeholder").load("nav.html");
+});
+</script>
+<!--end of Navigation bar-->
 
 	
 	<div id="content-wrap" class="container clr">
